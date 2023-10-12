@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import WordCounter from './components/Wordcounter';
+import WordCounter from './components/Wordcounter/Wordcounter';
 
 function App() {
   return (
